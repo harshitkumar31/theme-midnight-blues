@@ -1,0 +1,22 @@
+{
+    "name": "theme-midnight-blues",
+    "displayName": "midnight blues",
+    "description": "Dark theme for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "harshitkumar",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Midnight Blues Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Midnight Blues Theme-color-theme.json"
+            }
+        ]
+    }
+}
